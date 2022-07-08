@@ -7,4 +7,7 @@ PRO COMMIT:
 git add . ou -A = Adciona arquivos
 git commit -m " " = Mensagem dentro das aspas :)
 
+git push origin main = Envia o local para o repositório de nuvem
+git pull = ?
+
 *O cd sozinho tira você de dentro da pasta que você tá :(
