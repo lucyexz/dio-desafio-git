@@ -1,0 +1,10 @@
+CTRL + L = Limpa
+ls = lista dentro da pasta
+Setas são suas amigas :)
+git status = Mostra se algum arquivo precisa de commit
+
+PRO COMMIT:
+git add . ou -A = Adciona arquivos
+git commit -m " " = Mensagem dentro das aspas :)
+
+*O cd sozinho tira você de dentro da pasta que você tá :(
